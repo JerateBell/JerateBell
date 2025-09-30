@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,css,nestjs,prisma,vue,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,java,kafka,css,nestjs,prisma,vue,tailwind)](https://skillicons.dev)
 
 
 
